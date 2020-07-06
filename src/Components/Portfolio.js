@@ -20,7 +20,7 @@ class Portfolio extends Component {
                         <a href="https://github.com/pavankumar102/pavankumar102.github.io"><img src={web_page} width="200" height="200" alt="web_page"/><p>Recent profile web page </p></a>
                         <a href="https://github.com/pavankumar102/Gmail-Automation"><img src={gmail_auto } width="200" height="200" alt=" gmail_auto"/><p>Gmail automation using python</p></a>
                         <a href="https://github.com/pavankumar102/Web-automation"><img src={ web_auto}  width="200" height="200" alt=" web_auto"/><p>Web automation using python</p></a>
-                        <a href="https://github.com/SmartPracticeschool/llSPS-INT-1356-Smart-Agriculture-system-based-on-IoT"><img src={smarthome_UI} width="200" height="200" alt="smarthome_UI"/><p>IoT Project</p></a>
+                        <a href="https://github.com/SmartPracticeschool/llSPS-INT-1356-Smart-Agriculture-system-based-on-IoT"><img src={smarthome_UI} width="200" height="200" alt="smarthome_UI"/><p>IoT Project(Web App)</p></a>
                         
                     </div>
 
