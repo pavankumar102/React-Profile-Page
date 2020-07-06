@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "feab701756e7552d5f3114e43f15dffa",
+    "revision": "db844a1b3cd9b380b6c291f1cdd18cfc",
     "url": "/React-Profile-Page/index.html"
   },
   {
-    "revision": "8de4cd20427c8df676b8",
+    "revision": "2a41bc16fa070ea679af",
     "url": "/React-Profile-Page/static/css/main.f5d5ed1d.chunk.css"
   },
   {
-    "revision": "1bd924911f9cd40d4780",
-    "url": "/React-Profile-Page/static/js/2.4d19d128.chunk.js"
+    "revision": "b9df188a3ea766b4d96e",
+    "url": "/React-Profile-Page/static/js/2.91f9e02c.chunk.js"
   },
   {
     "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/React-Profile-Page/static/js/2.4d19d128.chunk.js.LICENSE.txt"
+    "url": "/React-Profile-Page/static/js/2.91f9e02c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8de4cd20427c8df676b8",
-    "url": "/React-Profile-Page/static/js/main.a082541a.chunk.js"
+    "revision": "2a41bc16fa070ea679af",
+    "url": "/React-Profile-Page/static/js/main.b46fa5bc.chunk.js"
   },
   {
     "revision": "eb5b0cbc693319009c70",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eb0d38e2843d3a1025a6e30b84934c85",
     "url": "/React-Profile-Page/static/media/biopicimg.eb0d38e2.jpg"
+  },
+  {
+    "revision": "6163d80dabb563a2f44bb03ad1ee3f41",
+    "url": "/React-Profile-Page/static/media/bootstrap.6163d80d.png"
   },
   {
     "revision": "e38766a187961322358125fe8517de2d",

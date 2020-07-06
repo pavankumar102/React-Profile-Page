@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/React-Profile-Page/static/css/main.f5d5ed1d.chunk.css",
-    "main.js": "/React-Profile-Page/static/js/main.a082541a.chunk.js",
-    "main.js.map": "/React-Profile-Page/static/js/main.a082541a.chunk.js.map",
+    "main.js": "/React-Profile-Page/static/js/main.b46fa5bc.chunk.js",
+    "main.js.map": "/React-Profile-Page/static/js/main.b46fa5bc.chunk.js.map",
     "runtime-main.js": "/React-Profile-Page/static/js/runtime-main.d12d77f4.js",
     "runtime-main.js.map": "/React-Profile-Page/static/js/runtime-main.d12d77f4.js.map",
-    "static/js/2.4d19d128.chunk.js": "/React-Profile-Page/static/js/2.4d19d128.chunk.js",
-    "static/js/2.4d19d128.chunk.js.map": "/React-Profile-Page/static/js/2.4d19d128.chunk.js.map",
+    "static/js/2.91f9e02c.chunk.js": "/React-Profile-Page/static/js/2.91f9e02c.chunk.js",
+    "static/js/2.91f9e02c.chunk.js.map": "/React-Profile-Page/static/js/2.91f9e02c.chunk.js.map",
     "index.html": "/React-Profile-Page/index.html",
-    "precache-manifest.c0d4047556f59dd66ade5f5db1de7e97.js": "/React-Profile-Page/precache-manifest.c0d4047556f59dd66ade5f5db1de7e97.js",
+    "precache-manifest.51daed57acbe110912811aca9b9f2100.js": "/React-Profile-Page/precache-manifest.51daed57acbe110912811aca9b9f2100.js",
     "service-worker.js": "/React-Profile-Page/service-worker.js",
     "static/css/main.f5d5ed1d.chunk.css.map": "/React-Profile-Page/static/css/main.f5d5ed1d.chunk.css.map",
-    "static/js/2.4d19d128.chunk.js.LICENSE.txt": "/React-Profile-Page/static/js/2.4d19d128.chunk.js.LICENSE.txt",
+    "static/js/2.91f9e02c.chunk.js.LICENSE.txt": "/React-Profile-Page/static/js/2.91f9e02c.chunk.js.LICENSE.txt",
     "static/media/Birthday.png": "/React-Profile-Page/static/media/Birthday.70a5c405.png",
     "static/media/biopicimg.jpg": "/React-Profile-Page/static/media/biopicimg.eb0d38e2.jpg",
+    "static/media/bootstrap.png": "/React-Profile-Page/static/media/bootstrap.6163d80d.png",
     "static/media/contactlogo.png": "/React-Profile-Page/static/media/contactlogo.e38766a1.png",
     "static/media/csslogo.png": "/React-Profile-Page/static/media/csslogo.04cf122b.png",
     "static/media/django.png": "/React-Profile-Page/static/media/django.8a962838.png",
@@ -33,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d12d77f4.js",
-    "static/js/2.4d19d128.chunk.js",
+    "static/js/2.91f9e02c.chunk.js",
     "static/css/main.f5d5ed1d.chunk.css",
-    "static/js/main.a082541a.chunk.js"
+    "static/js/main.b46fa5bc.chunk.js"
   ]
 }
