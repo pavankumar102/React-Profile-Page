@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/React-Profile-Page/static/css/main.f5d5ed1d.chunk.css",
+    "main.js": "/React-Profile-Page/static/js/main.cc8a0b90.chunk.js",
+    "main.js.map": "/React-Profile-Page/static/js/main.cc8a0b90.chunk.js.map",
+    "runtime-main.js": "/React-Profile-Page/static/js/runtime-main.d12d77f4.js",
+    "runtime-main.js.map": "/React-Profile-Page/static/js/runtime-main.d12d77f4.js.map",
+    "static/js/2.4d19d128.chunk.js": "/React-Profile-Page/static/js/2.4d19d128.chunk.js",
+    "static/js/2.4d19d128.chunk.js.map": "/React-Profile-Page/static/js/2.4d19d128.chunk.js.map",
+    "index.html": "/React-Profile-Page/index.html",
+    "precache-manifest.c348bb2854937845f9508147a3b02639.js": "/React-Profile-Page/precache-manifest.c348bb2854937845f9508147a3b02639.js",
+    "service-worker.js": "/React-Profile-Page/service-worker.js",
+    "static/css/main.f5d5ed1d.chunk.css.map": "/React-Profile-Page/static/css/main.f5d5ed1d.chunk.css.map",
+    "static/js/2.4d19d128.chunk.js.LICENSE.txt": "/React-Profile-Page/static/js/2.4d19d128.chunk.js.LICENSE.txt",
+    "static/media/Birthday.png": "/React-Profile-Page/static/media/Birthday.70a5c405.png",
+    "static/media/biopicimg.jpg": "/React-Profile-Page/static/media/biopicimg.eb0d38e2.jpg",
+    "static/media/contactlogo.png": "/React-Profile-Page/static/media/contactlogo.e38766a1.png",
+    "static/media/csslogo.png": "/React-Profile-Page/static/media/csslogo.04cf122b.png",
+    "static/media/django.png": "/React-Profile-Page/static/media/django.8a962838.png",
+    "static/media/gmail_auto.png": "/React-Profile-Page/static/media/gmail_auto.bb3af590.png",
+    "static/media/html5logo.jpg": "/React-Profile-Page/static/media/html5logo.3a431a93.jpg",
+    "static/media/javascript.png": "/React-Profile-Page/static/media/javascript.2e5c3718.png",
+    "static/media/javascriptimg2.png": "/React-Profile-Page/static/media/javascriptimg2.184a7681.png",
+    "static/media/pavankumar.jpg": "/React-Profile-Page/static/media/pavankumar.49116dca.jpg",
+    "static/media/pythonimg.png": "/React-Profile-Page/static/media/pythonimg.c290a443.png",
+    "static/media/reactjs_logo.png": "/React-Profile-Page/static/media/reactjs_logo.dd7784a9.png",
+    "static/media/registration.png": "/React-Profile-Page/static/media/registration.7083e454.png",
+    "static/media/smarthome_UI.png": "/React-Profile-Page/static/media/smarthome_UI.5fe08886.png",
+    "static/media/sql_logo.jpg": "/React-Profile-Page/static/media/sql_logo.1615105a.jpg",
+    "static/media/web_auto.png": "/React-Profile-Page/static/media/web_auto.a2d6e1cb.png",
+    "static/media/web_page.png": "/React-Profile-Page/static/media/web_page.ed42215a.png",
+    "static/media/yt1.png": "/React-Profile-Page/static/media/yt1.deb49360.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d12d77f4.js",
+    "static/js/2.4d19d128.chunk.js",
+    "static/css/main.f5d5ed1d.chunk.css",
+    "static/js/main.cc8a0b90.chunk.js"
+  ]
+}
