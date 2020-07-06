@@ -26,7 +26,7 @@ class Portfolio extends Component {
 
                     <div className="container">
                         <a href="https://github.com/pavankumar102/javascript"><img src={javascript} width="200" height="200" alt="javascript"/><p> Javascript web programs  </p></a>
-                        <a href="https://github.com/pavankumar102/simple-registratioin-form-using-jdbc-servlets-sqldatabase"><img src={registration} width="200" height="200" alt="registration"/><p>Simple registratioin form using jdbc <br/> and Servlets and storing data in SQL database</p></a>
+                        <a href="https://github.com/pavankumar102/simple-registratioin-form-using-jdbc-servlets-sqldatabase"><img src={registration} width="200" height="200" alt="registration"/><p>Simple registration form using jdbc <br/> and Servlets and storing data in SQL database</p></a>
                         <a href="https://github.com/pavankumar102/birthday-wishes-countdown-program-using-javascript-css-html"><img src={Birthday} width="200" height="200" alt="Birthday"/><p>Birthday wishes countdown web page </p></a>
                     </div>
 

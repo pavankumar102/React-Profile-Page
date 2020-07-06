@@ -9,6 +9,7 @@ import sql_logo from '../Components/public/image/sql_logo.jpg'
 import node from '../Components/public/image/node.png'
 import django from '../Components/public/image/django.png'
 import frontend from '../Components/public/image/frontend.png'
+import bootstrap from '../Components/public/image/bootstrap.png'
 
 
 
@@ -28,6 +29,7 @@ class Project extends Component {
                     <div><img src={node} width="100" height="100" alt="css"/></div>
                     <div><img src={django} width="100" height="100" alt="css"/></div>
                     <div><img src={frontend} width="100" height="100" alt="css"/></div>
+                    <div><img src={bootstrap} width="100" height="100" alt="css"/></div>
                     
             </section>
         )
