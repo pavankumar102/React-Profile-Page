@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Profile-Page/static/css/main.f5d5ed1d.chunk.css",
-    "main.js": "/React-Profile-Page/static/js/main.cc8a0b90.chunk.js",
-    "main.js.map": "/React-Profile-Page/static/js/main.cc8a0b90.chunk.js.map",
+    "main.js": "/React-Profile-Page/static/js/main.a082541a.chunk.js",
+    "main.js.map": "/React-Profile-Page/static/js/main.a082541a.chunk.js.map",
     "runtime-main.js": "/React-Profile-Page/static/js/runtime-main.d12d77f4.js",
     "runtime-main.js.map": "/React-Profile-Page/static/js/runtime-main.d12d77f4.js.map",
     "static/js/2.4d19d128.chunk.js": "/React-Profile-Page/static/js/2.4d19d128.chunk.js",
     "static/js/2.4d19d128.chunk.js.map": "/React-Profile-Page/static/js/2.4d19d128.chunk.js.map",
     "index.html": "/React-Profile-Page/index.html",
-    "precache-manifest.c348bb2854937845f9508147a3b02639.js": "/React-Profile-Page/precache-manifest.c348bb2854937845f9508147a3b02639.js",
+    "precache-manifest.c0d4047556f59dd66ade5f5db1de7e97.js": "/React-Profile-Page/precache-manifest.c0d4047556f59dd66ade5f5db1de7e97.js",
     "service-worker.js": "/React-Profile-Page/service-worker.js",
     "static/css/main.f5d5ed1d.chunk.css.map": "/React-Profile-Page/static/css/main.f5d5ed1d.chunk.css.map",
     "static/js/2.4d19d128.chunk.js.LICENSE.txt": "/React-Profile-Page/static/js/2.4d19d128.chunk.js.LICENSE.txt",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.d12d77f4.js",
     "static/js/2.4d19d128.chunk.js",
     "static/css/main.f5d5ed1d.chunk.css",
-    "static/js/main.cc8a0b90.chunk.js"
+    "static/js/main.a082541a.chunk.js"
   ]
 }
