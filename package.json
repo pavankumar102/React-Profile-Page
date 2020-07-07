@@ -1,5 +1,5 @@
 {
-  "homepage" : "http://pavankumar102.github.io/React-Profile-Page",
+  "homepage": "http://pavankumar102.github.io/React-Profile-Page",
   "name": "profile",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,7 @@
     "create-react-app": "^3.4.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",

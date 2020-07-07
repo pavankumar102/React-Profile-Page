@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import web_page from '../Components/public/image/web_page.png';
-import Birthday from '../Components/public/image/Birthday.png';
+import wishes from '../Components/public/image/wishes.png';
 import registration from '../Components/public/image/registration.png'
 import javascript from '../Components/public/image/javascript.png'
 import web_auto from '../Components/public/image/web_auto.png'
@@ -27,7 +27,7 @@ class Portfolio extends Component {
                     <div className="container">
                         <a href="https://github.com/pavankumar102/javascript"><img src={javascript} width="200" height="200" alt="javascript"/><p> Javascript web programs  </p></a>
                         <a href="https://github.com/pavankumar102/simple-registratioin-form-using-jdbc-servlets-sqldatabase"><img src={registration} width="200" height="200" alt="registration"/><p>Simple registration form using jdbc <br/> and Servlets and storing data in SQL database</p></a>
-                        <a href="https://github.com/pavankumar102/birthday-wishes-countdown-program-using-javascript-css-html"><img src={Birthday} width="200" height="200" alt="Birthday"/><p>Birthday wishes countdown web page </p></a>
+                        <a href="https://github.com/pavankumar102/birthday-wishes-countdown-program-using-javascript-css-html"><img src={wishes} width="200" height="200" alt="Birthday"/><p>Birthday wishes countdown web page </p></a>
                     </div>
 
                        
